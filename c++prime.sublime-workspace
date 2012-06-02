@@ -4,6 +4,46 @@
 		"selected_items":
 		[
 			[
+				"ge",
+				"getword	string"
+			],
+			[
+				"g",
+				"getword	string"
+			],
+			[
+				"is",
+				"ispunct(int _C)	int"
+			],
+			[
+				"z",
+				"size_type	"
+			],
+			[
+				"res",
+				"result2	string"
+			],
+			[
+				"wor",
+				"wordb	string"
+			],
+			[
+				"wod",
+				"wordb	string"
+			],
+			[
+				"cout",
+				"std::cout	ostream"
+			],
+			[
+				"word",
+				"worda	string"
+			],
+			[
+				"inc",
+				"include <header>	"
+			],
+			[
 				"std",
 				"stdout	"
 			]
@@ -11,11 +51,55 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "P3/1.cpp",
+			"settings":
+			{
+				"buffer_size": 478,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "P3/5.cpp",
+			"settings":
+			{
+				"buffer_size": 286,
+				"line_ending": "Windows",
+				"name": "5.cpp"
+			}
+		},
+		{
+			"file": "P3/8.cpp",
+			"settings":
+			{
+				"buffer_size": 297,
+				"line_ending": "Windows",
+				"name": "8.cpp"
+			}
+		},
+		{
+			"file": "P3/7.cpp",
+			"settings":
+			{
+				"buffer_size": 1052,
+				"line_ending": "Windows",
+				"name": "7.cpp"
+			}
+		},
+		{
+			"file": "P3/10.cpp",
+			"settings":
+			{
+				"buffer_size": 486,
+				"line_ending": "Windows",
+				"name": "9.cpp"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 311.0,
+		"height": 392.0,
 		"selected_items":
 		[
 			[
@@ -40,6 +124,15 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/SublimeAStyleFormatter/SublimeAStyleFormatter.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/User/SublimeAStyleFormatter.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/SublimeAStyleFormatter/Default (Windows).sublime-keymap",
+		"/C/Users/Administrator/Documents/GitHub/c--primer-pratice/P2/28.cpp",
+		"/D/Program Files/Microsoft Visual Studio 10.0/Common7/Tools/buildC.bat",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/User/C++.sublime-build",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/User/Base File.sublime-settings",
+		"/C/Users/Administrator/Documents/GitHub/c--primer-pratice/28.cpp",
 		"/C/Users/Administrator/Documents/GitHub/c--primer-pratice/c++prime.sublime-project",
 		"/C/Users/Administrator/Documents/GitHub/c--primer-pratice/P2/10.cpp",
 		"/C/Users/Administrator/Documents/GitHub/c--primer-pratice/P2/11.cpp",
@@ -50,7 +143,6 @@
 		"/D/hostx/Fontforge/fontforge.bat",
 		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/Alignment/Default (Windows).sublime-keymap",
 		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
-		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
 		"/C/Users/Administrator/Desktop/....txt",
 		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/Color Scheme - Default/Monokai.tmTheme",
 		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/User/C++.sublime-settings",
@@ -93,8 +185,160 @@
 	"groups":
 	[
 		{
+			"selected": 4,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "P3/1.cpp",
+					"settings":
+					{
+						"buffer_size": 478,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								70,
+								70
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_confidence": 0.99,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "P3/5.cpp",
+					"settings":
+					{
+						"buffer_size": 286,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								286,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "5.cpp",
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "P3/8.cpp",
+					"settings":
+					{
+						"buffer_size": 297,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								203,
+								203
+							]
+						],
+						"settings":
+						{
+							"auto_name": "8.cpp",
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "P3/7.cpp",
+					"settings":
+					{
+						"buffer_size": 1052,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1001,
+								1036
+							]
+						],
+						"settings":
+						{
+							"auto_name": "7.cpp",
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 258.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "P3/10.cpp",
+					"settings":
+					{
+						"buffer_size": 486,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								463,
+								463
+							]
+						],
+						"settings":
+						{
+							"auto_name": "9.cpp",
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -130,6 +374,10 @@
 	},
 	"menu_visible": true,
 	"output.clang":
+	{
+		"height": 106.0
+	},
+	"output.exec":
 	{
 		"height": 106.0
 	},
