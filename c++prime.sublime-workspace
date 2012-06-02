@@ -11,33 +11,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "P2/10.cpp",
-			"settings":
-			{
-				"buffer_size": 143,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "P2/11.cpp",
-			"settings":
-			{
-				"buffer_size": 453,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"contents": "#include <iostream>\nint main()\n{\n	double dval = 3.14 ;\n	const int &ri = dval;\n	//ri = 4;\n	std::cout << ri << dval<< std::endl;\n	std::cout << '\\062' << '\\t' << '\\115' << std::endl;\n	return 0;\n}",
-			"file": "P2/temp.cpp",
-			"file_size": 199,
-			"file_write_time": 129830431528252416,
-			"settings":
-			{
-				"buffer_size": 192,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -67,6 +40,11 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Administrator/Documents/GitHub/c--primer-pratice/c++prime.sublime-project",
+		"/C/Users/Administrator/Documents/GitHub/c--primer-pratice/P2/10.cpp",
+		"/C/Users/Administrator/Documents/GitHub/c--primer-pratice/P2/11.cpp",
+		"/C/Users/Administrator/Documents/GitHub/c--primer-pratice/P2/temp.cpp",
+		"/C/Users/Administrator/Documents/GitHub/c--primer-pratice/c++prime.sublime-workspace",
 		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
 		"/D/hostx/Fontforge/fontforge.bat",
@@ -115,98 +93,8 @@
 	"groups":
 	[
 		{
-			"selected": 2,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "P2/10.cpp",
-					"settings":
-					{
-						"buffer_size": 143,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								143,
-								0
-							]
-						],
-						"settings":
-						{
-							"encoding_helper_confidence": 1.0,
-							"encoding_helper_encoding": "UTF-8",
-							"encoding_helper_encoding_sublime": "UTF-8",
-							"syntax": "Packages/C++/C++.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "P2/11.cpp",
-					"settings":
-					{
-						"buffer_size": 453,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								211,
-								211
-							]
-						],
-						"settings":
-						{
-							"auto_name": "",
-							"encoding_helper_confidence": 1.0,
-							"encoding_helper_encoding": "UTF-8",
-							"encoding_helper_encoding_sublime": "UTF-8",
-							"syntax": "Packages/C++/C++.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "P2/temp.cpp",
-					"settings":
-					{
-						"buffer_size": 192,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								81,
-								81
-							]
-						],
-						"settings":
-						{
-							"encoding_helper_confidence": 1.0,
-							"encoding_helper_encoding": "UTF-8",
-							"encoding_helper_encoding_sublime": "UTF-8",
-							"syntax": "Packages/C++/C++.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -260,11 +148,11 @@
 	},
 	"select_project":
 	{
-		"height": 0.0,
+		"height": 500.0,
 		"selected_items":
 		[
 		],
-		"width": 0.0
+		"width": 380.0
 	},
 	"show_minimap": true,
 	"show_open_files": false,
